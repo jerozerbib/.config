@@ -1,0 +1,28 @@
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|error: Disabling module "mopidy" (reason: The reference ${colors.mf} does not exist (no fallback set))
+polybar|warn:  pulseaudio: using default sink bluez_sink.38_18_4C_17_08_B7.a2dp_sink
+polybar|error: module/backlight: Could not get data (err: XCB_NAME (15))
+polybar|error: Disabling module "backlight" (reason: Not supported for "HDMI1")
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|error: tray: Failed to put tray above 0x7e00001 in the stack (XCB_MATCH (8))
+polybar|warn:  Systray selection already managed (window=0x8200005)
+polybar|warn:  Dropping unmatched character  (U+e0ec)
+polybar|warn:  Dropping unmatched character  (U+e0ec)
+polybar|warn:  Dropping unmatched character  (U+e0ec)
+polybar|warn:  Dropping unmatched character  (U+e0ec)
+polybar|warn:  Dropping unmatched character  (U+e0ec)
+polybar|warn:  Dropping unmatched character  (U+e0ec)
+polybar|warn:  Dropping unmatched character  (U+e0ec)
+polybar|warn:  Dropping unmatched character  (U+e0ec)
+polybar|warn:  Dropping unmatched character  (U+e0ec)
+polybar|warn:  Dropping unmatched character  (U+e0ec)
+polybar|warn:  Dropping unmatched character  (U+e0ec)
+polybar|warn:  Dropping unmatched character  (U+e0ec)
+polybar|warn:  Dropping unmatched character  (U+e0ec)
+polybar|warn:  Dropping unmatched character  (U+e0ec)
+polybar|warn:  Dropping unmatched character  (U+e0ec)
+polybar|warn:  Dropping unmatched character  (U+e0ec)
+polybar|warn:  Dropping unmatched character  (U+e0ec)
+polybar|warn:  Dropping unmatched character  (U+e0ec)
+polybar|warn:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
